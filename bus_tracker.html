@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDP-nJq5XyAi_F05AEZtSbHMYGigcpZ1VQ&callback=initMap&libraries=&v=weekly"
+<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&libraries=&v=weekly"
 async ></script>
 <div id="map" style="width:1200px; height:800px"></div>
 
@@ -44,7 +44,7 @@ setTimeout(addMarkers,15000);
             
 // request real-time bus data from Massachusetts Bay Transportation Authority (MBTA)
 async function getBusLocations(){
-    var url = 'https://api-v3.mbta.com/vehicles?api_key=9d40365d9bf749119a483fc3da9d5671&filter[route]=1&include=trip';	
+    var url = 'https://api-v3.mbta.com/vehicles?api_key=YOUR_API_KEY&filter[route]=1&include=trip';	
     var response = await fetch(url);
     var json     = await response.json();
     return json.data;
