@@ -7,7 +7,8 @@ API key for Google's Maps JavaScript is required then we will add markers on the
 
 ## Usage 
 <img src = 'example.png' width="340" height="290"> 
-<a href="https://anyapages.github.io/bus_tracker.html">Interactive version</a>
+
+[Interactive version](https://anyapages.github.io/bus_tracker.html)
 
 ## Support
 [Maps JavaScript API](https://developers.google.com/maps/support/?hl=en_G)
