@@ -1,6 +1,4 @@
-# bus-tracker
-
- 🚌
+# bus-tracker 🚌
 
 ## Working with DOM in JavaScript
 
