@@ -14,7 +14,7 @@ API key for Google's Maps JavaScript is required then we need to add markers on 
 [Maps JavaScript API](https://developers.google.com/maps/support/?hl=en_G)
 
 ## Roadmap
-I am planning to provide GPS public bus tracking information for more cities in South East Asia.
+I am planning to provide GPS public bus tracking information for cities in South East Asia.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
