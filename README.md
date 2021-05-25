@@ -16,7 +16,7 @@ API key for Google's Maps JavaScript is required for testing then we need to add
 ## Roadmap
 - Provide GPS public bus tracking information for cities in South East Asia.
 - Create functions and buttons for riders' convenience.
-- Launch an application.
+- Launch a city map application.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
