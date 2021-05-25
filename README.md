@@ -1,4 +1,6 @@
-# bus-tracker 🚌
+# MIT Bus-tracker 🚌
+
+MIT Bus-tracker is an animation that display a city bus location around MIT in real-time.
 
 ## Working with DOM in JavaScript
 
