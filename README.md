@@ -1,6 +1,6 @@
-# MIT Bus-tracker 🚌
+# MIT Bus Tracker 🚌
 
-MIT Bus-tracker is a real-time bus tracking information that allows riders to track the exact location of a bus in real time for Massachusetts Institute of Technology (MIT)
+MIT bus tracker is a real-time bus tracking information that allows riders to track the exact location of a bus in real time for Massachusetts Institute of Technology (MIT)
 
 ## Installation
 API key for Google's Maps JavaScript is required then we will add markers on the map to highlight the bus routes.
