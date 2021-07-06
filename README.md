@@ -8,7 +8,7 @@ API key for Google's Maps JavaScript is required for testing. Then, we need to a
 ## Usage 
 <img src = 'example.png' width="340" height="290"> 
 
-[Interactive version](https://anyapages.github.io/bus_tracker.html)
+[Live Demo](https://anyapages.github.io/bus_tracker.html)
 
 ## Support
 [Maps JavaScript API](https://developers.google.com/maps/support/?hl=en_G)
