@@ -16,11 +16,6 @@ API key for Google's Maps JavaScript is required for testing. Then, we need to a
 - Create functions and buttons for riders.
 - Launch a city bus tracking application.
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
 ## Authors and acknowledgment
 Bus data provided by Massachusetts Bay Transportation Authority (MBTA),
 MIT xPro
