@@ -1,22 +1,30 @@
+<!DOCTYPE html>
 <html>
 
 <head>
-    <meta charset="utf-8" />
-    <title>MIT Bus Tracker</title>
-    <link href="style.css" rel="stylesheet" type="text/css" />
+  <meta charset="utf-8" />
+  <title>MIT Bus Tracker</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <style>
+    #map {
+      width: 100%;
+      height: 600px;
+    }
+
+    p {
+      font-size: large;
+    }
+  </style>
 </head>
 
 <body>
-<p style="font-size: large">Real-Time GPS Bus Tracker</p>
+  <h1>Real-Time GPS Bus Tracker</h1>
 
-<!-- Add an API key with a Google Map JavaScript API request -->
-<div id="map" style="width:100%; height:600"></div>
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap"
-  type="text/javascript">
-</script>
+  <!-- Add an API key with a Google Map JavaScript API request -->
+  <div id="map"></div>
 
+  <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap" async defer></script>
+  <script src="mapanimation.js"></script>
 </body>
-
-<script src="mapanimation.js"></script>
 
 </html>
